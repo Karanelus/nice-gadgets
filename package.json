@@ -1,8 +1,8 @@
 {
-  "name": "react_phone-catalog",
+  "name": "nice-gadgets",
   "private": true,
-  "version": "0.1.0",
-  "homepage": "https://karanelus.github.io/react_phone-catalog",
+  "version": "1.0",
+  "homepage": "https://karanelus.github.io/nice-gadgets",
   "type": "module",
   "scripts": {
     "dev": "vite",
